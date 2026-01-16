@@ -1,2 +1,4 @@
-# go-goframe
-go-frame框架
+# GoFrame Template For SingleRepo
+
+Quick Start: 
+- https://goframe.org/quick
